@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🛒 Sales Analytics Pipeline
 ### End-to-End Medallion Architecture | PySpark · Delta Lake · Databricks
 
@@ -154,16 +154,16 @@ In Databricks, go to **Data → default database** to confirm all Delta tables a
 ## 📊 Sample Insights
 
 ### Regional Performance
-![Region Profit](assets/screenshots/chart1_region_profit.png)
+![Region Profit]({notebooks,data,docs,assets}/screenshots/chart1_region_profit.png)
 
 ### Loss-Making Sub-Categories
-![Category Loss](assets/screenshots/chart2_category_loss.png)
+![Category Loss]({notebooks,data,docs,assets}/screenshots/chart2_category_loss.png)
 
 ### Customer Segment Analysis
-![Segment Analysis](assets/screenshots/chart3_segment_analysis.png)
+![Segment Analysis]({notebooks,data,docs,assets}/screenshots/chart3_segment_analysis.png)
 
 ### Top & Bottom States
-![States](assets/screenshots/chart4_top_bottom_states.png)
+![States]({notebooks,data,docs,assets}/screenshots/chart4_top_bottom_states.png)
 
 ### Key Findings
 | Insight | Finding |
@@ -195,4 +195,5 @@ This project is open source and available under the [MIT License](LICENSE).
 =======
 # Sales-Analytics-Pipeline
 End-to-end Medallion Architecture pipeline using PySpark and Delta Lake on Databricks
->>>>>>> 8f4d58c5bef7887cd5e325f90f4e91999a578e2b
+
+=======

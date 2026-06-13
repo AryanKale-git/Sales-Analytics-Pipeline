@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 Sales Analytics Pipeline
 ### End-to-End Medallion Architecture | PySpark · Delta Lake · Databricks
 
@@ -173,3 +174,7 @@ MCA Student | Savitribai Phule Pune University
 
 ## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
+=======
+# Sales-Analytics-Pipeline
+End-to-end Medallion Architecture pipeline using PySpark and Delta Lake on Databricks
+>>>>>>> 8f4d58c5bef7887cd5e325f90f4e91999a578e2b

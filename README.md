@@ -192,8 +192,3 @@ MCA Student | Savitribai Phule Pune University
 
 ## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
-=======
-# Sales-Analytics-Pipeline
-End-to-end Medallion Architecture pipeline using PySpark and Delta Lake on Databricks
-
-=======

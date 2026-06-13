@@ -154,16 +154,16 @@ In Databricks, go to **Data → default database** to confirm all Delta tables a
 ## 📊 Sample Insights
 
 ### Regional Performance
-![Region Profit]({notebooks,data,docs,assets}/screenshots/chart1_region_profit.png)
+![Region Profit]({notebooks,data,docs,assets}/screenshots/download.png)
 
 ### Loss-Making Sub-Categories
-![Category Loss]({notebooks,data,docs,assets}/screenshots/chart2_category_loss.png)
+![Category Loss]({notebooks,data,docs,assets}/screenshots/download%20(1).png)
 
 ### Customer Segment Analysis
-![Segment Analysis]({notebooks,data,docs,assets}/screenshots/chart3_segment_analysis.png)
+![Segment Analysis]({notebooks,data,docs,assets}/screenshots/download%20(2).png)
 
 ### Top & Bottom States
-![States]({notebooks,data,docs,assets}/screenshots/chart4_top_bottom_states.png)
+![States]({notebooks,data,docs,assets}/screenshots/download%20(3).png)
 
 ### Key Findings
 | Insight | Finding |
@@ -186,7 +186,7 @@ In Databricks, go to **Data → default database** to confirm all Delta tables a
 
 **Aryan Kale**
 MCA Student | Savitribai Phule Pune University
-[LinkedIn](#) · [GitHub](#) · [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/aryan-kale-60795a281) · [GitHub](https://github.com/AryanKale-git) · [Portfolio](https://www.self.so/aryan-kale-lhskzm)
 
 ---
 

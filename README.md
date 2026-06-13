@@ -153,14 +153,32 @@ In Databricks, go to **Data → default database** to confirm all Delta tables a
 
 ## 📊 Sample Insights
 
-*(Screenshots will be added after running the pipeline)*
+### Regional Performance
+![Region Profit](assets/screenshots/chart1_region_profit.png)
 
+### Loss-Making Sub-Categories
+![Category Loss](assets/screenshots/chart2_category_loss.png)
+
+### Customer Segment Analysis
+![Segment Analysis](assets/screenshots/chart3_segment_analysis.png)
+
+### Top & Bottom States
+![States](assets/screenshots/chart4_top_bottom_states.png)
+
+### Key Findings
 | Insight | Finding |
 |---------|---------|
-| Most Profitable Region | TBD after running pipeline |
-| Highest Loss Sub-Category | TBD after running pipeline |
-| Best Customer Segment | TBD after running pipeline |
-| Top Performing State | TBD after running pipeline |
+| Total Orders Processed | 9,994 |
+| Loss-Making Orders | 1,871 (18.7%) |
+| Avg Profit Margin | 12.03% |
+| Most Profitable Region | West ($108,418 profit, 21.95% margin) |
+| Least Profitable Region | Central (-10.41% avg margin) |
+| Worst Loss Sub-Category | Binders ($38,510 loss across 613 orders) |
+| Highest Discount on Loss Orders | Appliances (80% avg discount) |
+| Best Customer Segment | Consumer ($134,119 total profit) |
+| Highest Margin Segment | Home Office (14.29% avg margin) |
+| Top Performing State | California ($76,381 profit) |
+| Worst Performing State | Texas (-$25,729 loss) |
 
 ---
 
